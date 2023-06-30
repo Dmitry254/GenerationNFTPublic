@@ -1,0 +1,1 @@
+{"name": "3", "description": "Test generator", "external_url": "URL", "image": "Link", "hp": "3567", "damage": "396", "attributes": [{"trait_type": "Bg", "value": "bg"}, {"trait_type": "Body", "value": "body"}, {"trait_type": "Head", "value": "head3"}, {"trait_type": "Arms", "value": "arms2"}, {"trait_type": "Legs", "value": "legs2"}], "symbol": "TEST"}
